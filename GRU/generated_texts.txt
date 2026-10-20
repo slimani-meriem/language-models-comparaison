@@ -1,0 +1,73 @@
+strategie 1 : 
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] elle doit être obligée de sauver le monde de sa fille . 
+[2] les dames étaient eux , tâ #chaient d ' enfants , à bout mill #chés . 
+[3] et , de bonne lecture , vêtue de ces convives entrèrent ensemble d ' une voix paisible . 
+[4] il pouvait ad #mettre les petits hommes , il ne trouvait plus la même détermin #ation . 
+[5] comment voulez - vous que je sois au luxembourg bonheur ? 
+
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] les rires recommen #cèrent , bien que l ' heure fait son âge , à l ' affaire des pauvres , d ' en bas . 
+[2] - - la petite , mon raisonnement est toujours inutile . 
+[3] la sueur , un peu de tenir tranquille , c ' était toujours nu , qu ' ils avaient pu demander un morceau d ' ombre . 
+[4] quand les vêtements se ser #raient au milieu des insul #tes épars . 
+[5] j #ouv #e , le petit per #que de femme , personne n ' a vu bien . 
+
+[1] avec tout ce qu ' ils voud #ront , ils se changer à connaître le jour bas , ils crièrent : flore #nce , tient à ses places carrés dans ce grand air de la ruine , faite plus haut du poisson mort de l ' église . 
+[2] j ' ai compris , sur le four #ier , un architecte , en le traître entre #nt . 
+[3] ils étaient là , sans fin de s ' éch #anger de trouver une attaque . 
+[4] dites - moi donc ! 
+[5] - - au revoir , asse #yez - vous , je ne veux pas cela , dites le petit ? 
+
+
+
+strategie 2 :
+[1] mais la troupe ne roug #issait même pas . 
+[2] demain , les champs des autres branches à marie , toute blanche d ' une fillette cour #onné parmi les trois #aires du pavillon de gar #ce . 
+[3] , le misérable homme parlait enfin à l ' examen ; et , si la vérité revenait , là - bas , au moins heureux de s ' être mis vers le signal à duvillard , de la musique nouvelle , trans #té , enfin maintenant , lui accour #ait avec un succès comme tout ren #g #or #quant une terrible science . 
+[4] à gros pes #ées , depuis un instant , s ' en rejet #a sur lui adresser sur sa tête . 
+[5] répéta le vieux .
+
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] vous voyez bien , n ' est - ce pas ? 
+[2] le mal est venu . 
+[3] - - tiens , je ne passer mon mari , je veux bien que j ' aille à la porte , car , au milieu de la lettre ? 
+[4] a chaque t ' elle l ' examinait . 
+[5] elle espère par le ce lieu monsieur hennebeau ! 
+
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] mon dieu ! 
+[2] la machine venaient de faire éclater les cierges dans l ' ombre . 
+[3] tout me fait mon coeur , ça le sent il réuss #isse . 
+[4] monsieur leb #ig #re a petit ventre , tu le fais tout . " 
+[5] oh ! 
+
+
+strategie 3 :
+
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] - - qui est volé ! 
+[2] las ! " 
+[3] elles se ramen #aient , de toutes sortes récla #mes , quand on y avait tout mort leur #urier . 
+[4] un travail où lui es #si #d #ré et qui le faisait pour confesser . 
+[5] et elle s ' oubliait encore de son petit doigt pin #ça d ' habiller à la fièvre , ne comprenant plus qu ' on pût des form #alités ne compliment #aient . 
+
+
+[1] d ' ailleurs revint , les pas adress #aient des deux mille tou #chât , et le div #orce naiss #ait peu , dans une telle messe élevée et de l ' allure jou #ol #ante comme et cet ' acte du monde . 
+[2] et , justement , en la face sur ce trottoir à comm #az , un rayon paquet obsc qui fut servi de plusieurs fois . 
+[3] " tiens , berthe , approuv #ant peu , où ne vous a ce pas la boutique . 
+[4] oh ! 
+[5] pourquoi demanda - t ' il ? 
+
+--- Génération de 5 phrase(s) avec le GRU ---
+
+[1] peut - être ta #îtr cis et louise ! 
+[2] si dort ! 
+[3] - - trois ore #illers , continua madame claude . 
+[4] mignon affecta tout gâter . 
+[5] - - comment , ter #ez - moi ? 

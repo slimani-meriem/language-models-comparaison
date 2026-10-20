@@ -1,0 +1,14 @@
+{
+    "h": 256,
+    "strategy" : 2, 
+    "num_layers" : 1,
+    "train_filename": "../../data/corpus/balises_gru_transformer/train_12k.bpe",
+    "val_filename": "../../data/corpus/balises_gru_transformer/val_12k.bpe",
+    "vocab_filename": null,
+    "emb_dim": 256,
+    "freeze_embeddings": false,
+    "vocab_size": null,
+    "nb_iter": 10,
+    "minibatch": 256,
+    "emb_filename": "../../data/bpe_embeddings/bpe_embeddings_12k_256.txt"
+}
