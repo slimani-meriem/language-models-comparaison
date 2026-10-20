@@ -1,0 +1,13 @@
+{
+    "k": 3,
+    "dh": 256,
+    "train_filename": "../../data/corpus/balises_mlp/train_12k.bpe",
+    "val_filename": "../../data/corpus/balises_mlp/val_12k.bpe",
+    "vocab_filename": null,
+    "emb_dim": 32,
+    "freeze_embeddings": false,
+    "vocab_size": null,
+    "nb_iter": 10,
+    "minibatch": 256,
+    "emb_filename": "../../data/bpe_embeddings/bpe_embeddings_12k_32.txt"
+}
