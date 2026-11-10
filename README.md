@@ -1,6 +1,6 @@
 # Language Models Comparison
 
-Projet académique et expérimental d'étude comparative de différentes architectures de traitement du langage naturel (NLP).
+Projet expérimental d'étude comparative de différentes architectures de traitement du langage naturel (NLP).
 
 ## Structure du Projet
 
@@ -8,15 +8,15 @@ Le dépôt est organisé par architecture de modèle :
 
 | Module | Description | Principaux composants |
 | :--- | :--- | :--- |
-| **`MLP/`** | Modèle perceptron multicouche | Scripts d'entraînement, fichiers de config JSON, grille de recherche `k` / dimension d'embedding[cite: 1] |
-| **`GRU/`** | Réseau récurrent à portes (Gated Recurrent Unit) | Mécanisme de cellules, génération de texte, évaluation de la perplexité[cite: 1] |
-| **`Transformer/`** | Architecture auto-attentive (type GPT) | Notebooks d'analyse des mécanismes, têtes d'attention multiples, scripts d'entraînement[cite: 1] |
+| **`MLP/`** | Modèle perceptron multicouche | Scripts d'entraînement, fichiers de config JSON, grille de recherche `k` / dimension d'embedding |
+| **`GRU/`** | Réseau récurrent à portes (Gated Recurrent Unit) | Mécanisme de cellules, génération de texte, évaluation de la perplexité|
+| **`Transformer/`** | Architecture auto-attentive (type GPT) | Notebooks d'analyse des mécanismes, têtes d'attention multiples, scripts d'entraînement |
 
 ## Fonctionnalités et Pipeline
 
-* **Entraînement et Génération** : Scripts dédiés pour entraîner chaque architecture et générer du texte[cite: 1].
-* **Évaluation** : Calcul de la perplexité et stockage des résultats d'expérimentation (formats CSV et JSON)[cite: 1].
-* **Exploration** : Notebooks Jupyter interactifs pour comprendre le fonctionnement interne des modèles (vues d'ensemble des mécanismes)[cite: 1].
+* **Entraînement et Génération** : Scripts dédiés pour entraîner chaque architecture et générer du texte.
+* **Évaluation** : Calcul de la perplexité et stockage des résultats d'expérimentation (formats CSV et JSON).
+* **Exploration** : Notebooks Jupyter interactifs pour comprendre le fonctionnement interne des modèles (vues d'ensemble des mécanismes).
 
 ## Données
 
