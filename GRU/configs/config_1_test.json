@@ -1,0 +1,14 @@
+{
+    "h": 5,
+    "strategy" : 1, 
+    "num_layers" : 1,
+    "train_filename": "../../data/corpus/testing_files/train.bpe",
+    "val_filename": "../../data/corpus/testing_files/val.bpe",
+    "vocab_filename": "../../data/tokenizers/bpe_tokenizer_vocab_12k.json",
+    "emb_dim": 32,
+    "freeze_embeddings": false,
+    "vocab_size": null,
+    "nb_iter": 3,
+    "minibatch": 3,
+    "emb_filename": null
+}
